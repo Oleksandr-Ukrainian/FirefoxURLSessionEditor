@@ -292,7 +292,7 @@ except Exception:
 class App(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("Browser Session Editor  v5")
+        self.title("Foxy Session Editor")
         self.minsize(760, 680)
 
         self._cfg = load_config()
