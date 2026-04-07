@@ -1,6 +1,7 @@
 # Firefox URL Session Editor
 Edits your urls, for example you have 100 urls named mysite.com and script will decode them and rename to mynewestsite.org
-<img width="1662" height="1662" alt="user-gen-media-assets s3 amazonaws com (5)" src="https://github.com/user-attachments/assets/634a6afa-bc9c-44f4-82f7-ff3477fa42c5" />
+
+<img width="2048" height="2048" alt="user-gen-media-assets s3 amazonaws com (3)" src="https://github.com/user-attachments/assets/bc915b34-59b2-42a6-aecc-edcae7589029" />
 
 # (Supports many browsers)
 <img width="2048" height="2048" alt="user-gen-media-assets s3 amazonaws com (7)" src="https://github.com/user-attachments/assets/e883742b-235b-439d-beb6-1b5489cbf8ef" />
