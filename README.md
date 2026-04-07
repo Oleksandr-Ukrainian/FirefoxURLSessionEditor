@@ -9,3 +9,4 @@ Edits your urls, for example you have 100 urls named mysite.com and script will 
 
 <img width="2816" height="1536" alt="image" src="https://github.com/user-attachments/assets/627e262d-0cbe-4ab0-b955-92dd3ef607a5" />
 
+<img width="2048" height="2048" alt="user-gen-media-assets s3 amazonaws com (14)" src="https://github.com/user-attachments/assets/a49b01a8-996e-460c-99d9-acf6e2ad33b7" />
