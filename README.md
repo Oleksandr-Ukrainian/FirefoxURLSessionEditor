@@ -1,6 +1,7 @@
 # Firefoxium URL Session Editor (Supports many browsers)
 it Edits your urls, for example you have 100 urls named *mysite.com* and domain changes, script will decode your sessions file and rename necessary url domain into *mynewestsite.org* or any other domain name
 UI example:
+
 <img width="2560" height="1357" alt="image" src="https://github.com/user-attachments/assets/9ef09ac7-7f21-492f-b621-8a59d7ff74ca" />
 
 Beautiful images that I generated:
